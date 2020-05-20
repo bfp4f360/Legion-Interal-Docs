@@ -6,14 +6,15 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
+import Button from '@material-ui/core/Button';
+
 const features = [
   {
     title: <>Easy to Use</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I am a computers scientist so this shit is ez lol.
       </>
     ),
   },
@@ -22,8 +23,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        It looks pretty cool dont you think?
       </>
     ),
   },
@@ -32,8 +32,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Dont worry about it being in react! It is really ez!
       </>
     ),
   },
@@ -77,6 +76,7 @@ function Home() {
           </div>
         </div>
       </header>
+
       <main>
         {features && features.length && (
           <section className={styles.features}>
@@ -90,6 +90,7 @@ function Home() {
           </section>
         )}
       </main>
+      
     </Layout>
   );
 }

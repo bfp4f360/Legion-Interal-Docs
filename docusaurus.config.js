@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'SWLS Internal Test Doc',
+  tagline: 'Hello there crimmie boi 👋.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'swls', // Usually your GitHub org/user name.
+  projectName: 'swls-test-internal-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Internal Docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -21,8 +21,9 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
+        // {to: 'blog', label: 'Golb', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Legion-Studios',
           label: 'GitHub',
           position: 'right',
         },
