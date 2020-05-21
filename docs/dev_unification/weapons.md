@@ -36,3 +36,9 @@ different parameters weapons can have. having 5 weapons is hard to make then
 have a niche and complement each other, now imagine having more. You would have
 overlap and some weapons would flat out not be used. With this system you can allow for some overlap(Like 15c might be better damging then 15s but 15s has better rof, but they both are carbines) while still having variation.
 
+Heres a comparision.
+
+(DC-15a, Dc-15s, Z6, DC-15 LE, DC-15 mod 0)   -> (E-5, E-5c, E-5s, E-5 magna)  
+(DC-15c, DC-16 suppressed,DC-15L)  -> (E-5x,E-5d,E-5L) *I just came up with random letters lol*  
+(DC-17m, DC-17m Sniper, DC-17m AT) -> (E-6, E-6s, E-6 magna) 
+
