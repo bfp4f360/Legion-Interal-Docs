@@ -72,3 +72,7 @@ shape do they fall at and what distance do they spawn at. There is also paramete
 So theres flares/chaff (really the same thing in arma 3) and smoke. Key things
 to note are the rate of fire of the abilties, the mag count, reload time and how
 much it covers( really only applicable to smokes, as in does the smoke cover 360 around the craft or just the front for example).
+
+### Fuel
+
+This is in units of minutes and should roughly be the time it takes to run out of fuel while on idle. Some key things to remember is that some scripts may increase fuel consumption.
