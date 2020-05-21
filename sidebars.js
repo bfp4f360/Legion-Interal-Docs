@@ -1,9 +1,6 @@
 module.exports = {
   someSidebar: {
     "Interal Docs": ['overview','doc1'], //id
-    "I can call this whatever": ['mdx'],
+    "Balancing":['dev_unification/overview', 'dev_unification/vehicles']
   },
-  // testSidebar:{
-  //   "Testing sidebar":['mdx']
-  // }
 };
